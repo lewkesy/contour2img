@@ -37,12 +37,12 @@ Thank [Tali Dekel](http://people.csail.mit.edu/talidekel/) for answering and exp
   
 # Results
   The following images are part of my results. The left part is the image from 6-channel contour domain, the mid one is the original input and the right one is the image generated through the network.
-  ![0](results/sample/combine_0.jpg)
-  ![1](results/sample/combine_1.jpg)
-  ![2](results/sample/combine_2.jpg)
-  ![3](results/sample/combine_3.jpg)
-  ![4](results/sample/combine_4.jpg)
-  ![5](results/sample/combine_5.jpg)
-  ![6](results/sample/combine_6.jpg)
-  ![7](results/sample/combine_7.jpg)
-  ![8](results/sample/combine_8.jpg)
+  ![0](sample/combine_0.jpg)
+  ![1](sample/combine_1.jpg)
+  ![2](sample/combine_2.jpg)
+  ![3](sample/combine_3.jpg)
+  ![4](sample/combine_4.jpg)
+  ![5](sample/combine_5.jpg)
+  ![6](sample/combine_6.jpg)
+  ![7](sample/combine_7.jpg)
+  ![8](sample/combine_8.jpg)
