@@ -3,6 +3,6 @@ This repo is an implementation practice of paper [*Smart, Sparse Contours to Rep
 
 Thank [Tali Dekel](http://people.csail.mit.edu/talidekel/) for answering and explaining questions!
 
-<h2> Setup
+<h2> Setup<\h2>
   To run the code, you should have these libs installed in your cluster.
-  Item Tensorflow
+  <Item> Tensorflow <\item>
