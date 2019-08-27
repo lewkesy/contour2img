@@ -3,3 +3,4 @@ This repo is an implementation practice of paper [*Smart, Sparse Contours to Rep
 
 Thank [Tali Dekel](http://people.csail.mit.edu/talidekel/) for answering and explaining questions!
 
+<h1>Setup
