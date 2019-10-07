@@ -19,11 +19,11 @@ Thank [Tali Dekel](http://people.csail.mit.edu/talidekel/) for answering and exp
 # Training
   We would train two times for the best results. Owing the general network is organized by two partial U-net, we need to train the first network (LFN) first with --pre set to 0. After train the LFN, we freeze the LFN and train the second refining network (HFN).
   You can train the network as follows:
-  
+  '''
   python train.py --lr 0.0002 --t 1 --s 0.3 --pre 0
   (Finish the first training)
   python train.py --lr 0.0002 --t 1 --s 0.3 --pre 1
-
+  '''
   You can check "../train/lr_t_s/" to find the results generated through training
   
 # Test
